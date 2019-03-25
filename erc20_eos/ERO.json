@@ -1,0 +1,24 @@
+{
+  "symbol": "ERO",
+  "account": "eoslandadmin",
+  "precision": 4,
+  "overview": {
+    "en": "EOSLAND is a multiplayer virtual world based on blockchain technology and a 3D space created by a global collaboration. In the world of EOSLAND, users create value and users gain wealth. EOSLAND, an independent world in NeoWorld, is an archipelago model consisting of 21 islands. ERO is based on the EOS issued, is the necessary construction materials for EOS exclusive buildings, and is the only way to obtain EOSLAND islands' equity points. The ERO has a maximum circulation of 21 million. Each island of EOSLAND has a production capacity of 1 million each. Whenever a new island is opened, its corresponding output quota will be activated. 95% of the ERO will be produced by building an ERO collection plant on the island; 5% of the ERO will be an operational pool that will be used for pre-opening pre-heating activities and subsequent rewards for various operational activities.",
+    "zh": "EOSLAND是一个基于区块链技术的多人联网虚拟世界，也是一个由全球用户共同协作创建的3D空间。在EOSLAND的世界，用户创造价值，用户收获财富。EOSLAND作为NeoWorld里的一片独立世界，是一个群岛模式，由21个岛屿组成。 ERO是基于EOS公链发行的通证，是EOS专属建筑的必要建造材料，也是获得EOSLAND各岛屿权益点数的唯一途径。ERO最大发行量为2100万，EOSLAND每个岛屿各自拥有100万额度的产出量，每当有一个新的岛屿开启，则将激活其对应的产出量额度。95%的ERO将通过在岛上建造ERO采集厂产出;5%的ERO为运营池，将用于开岛前的预热活动以及后续各种运营活动的奖励。"
+  },
+  "logo": "eosadmin_ERO.png",
+  "email": "raymanyang@neoworld.io",
+  "website": "https://neoworld.io/eosland",
+  "whitepaper": "http://neoworldres.com/download/NeoWorld_Whitepaper_v3.0_EN.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-03-07",
+  "initial_price": {
+  },
+  "links": {
+    "blog": "https://your-awesome-project.com/blog",
+    "twitter": "https://twitter.com/EOSLAND2",
+    "telegram": "https://t.me/eosland",
+    "reddit": "https://www.reddit.com/user/EOSLAND_",
+    "medium": "https://medium.com/@eosland"
+  }
+}
