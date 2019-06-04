@@ -1,0 +1,14 @@
+{
+	"symbol": "ZT",
+	"account": "z1gametoken1",
+	"precision": 4,
+	"overview": {
+		"en": "ZT Token.",
+		"zh": ""
+	},
+	"logo": "z1gametoken1_ZT.png",
+	"website": "https://2100.bet",
+	"links": {
+		"telegram": "https://t.me/z1_game"
+	}
+}
