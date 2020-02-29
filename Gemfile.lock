@@ -14,7 +14,7 @@ GEM
       rake
     money-tree (0.9.0)
       ffi
-    rake (12.3.1)
+    rake (13.0.1)
     rlp (0.7.3)
     scrypt (3.0.5)
       ffi-compiler (>= 1.0, < 2.0)
