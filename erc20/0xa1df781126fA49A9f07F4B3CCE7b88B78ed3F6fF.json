@@ -1,0 +1,22 @@
+{
+    "symbol": "DSB",
+    "address": "0xa1df781126fA49A9f07F4B3CCE7b88B78ed3F6fF",
+    "overview": {
+        "en": "Digital Super Bit is a next-generation valueable investment token started from BSC. It mainly focuses on yeild farming, dencentralized exchanges, predictions, this project aims to promote a new concept about digital entertainment on blockchain. In the future, the project will be involved in sports, games and e-commerce",
+        "zh": "DSB，是一个基于BSC启动的次时代去中心化加密代币，主要关注defi中的流动性挖矿，去中心化交易，预言。该项目致力于推进区块链上的一种数字娱乐的新概念。未来将包含体育竞技，游戏，电商等板块。DSB将打破传统互联网与去中心化互联网功能壁垒，使区块链进入一个可用，易用，实用的应用水平，从而服务于现实世界。关于DSB代币，DSB团队无预留，无增发计划，有通缩和销毁机制，代币必须通过质押挖矿或直接购买获得。"
+    },
+    "logo": "0xa1df781126fA49A9f07F4B3CCE7b88B78ed3F6fF.png",
+    "email": "git@dsbswap.com",
+    "website": "https://dsbswap.com",
+    "whitepaper": "https://doc.dsbswap.com",
+    "state": "NORMAL",
+    "published_on": "2021-05-23",
+    "initial_price": {
+        "USD": "0.004 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/DsbSwap",
+        "telegram": "https://t.me/DSBSwap",
+        "github": "https://github.com/DSBSwap"
+    }
+}
